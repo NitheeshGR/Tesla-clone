@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fpage{
+    background:rgba(0,0,0,0.8) url('photos/Homepage-Model-3-Desktop-US.png') center center fixed no-repeat;
+    background-size: cover;
+    height: 57em;
+    width: 100%;
+    
+}
+.nav{
+    height: 56px;
+    display:grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    
+    align-items: center;
+    
+
+}
+.box1{
+   display: grid;
+   height: 56px;
+   align-items: center;
+  
+}
+
+.Teslalogo{
+    height: 16px;
+    padding-left: 3em;
+}
+.box2 ul li{
+    display: inline-block;
+    list-style: none;
+    /* gap: 20px; */
+}
+.box2 ul li a{
+    text-decoration: none;
+    color: #fcfcfc;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+
+}
+.box2{
+    display: grid;
+    justify-content: center;
+    
+}
+.box3{
+    display: grid;
+    justify-content:flex-end;
+    padding-right: 40px ;
+
+   
+    
+}
+.box3 ul li{
+    display: inline-block;
+    list-style: none ;
+}
+.box ul li a{
+    text-decoration: none;
+    color: #E9EFF5;
+    position: relative;
+
+    
+}
+.fa-regular {
+    color:#E9EFF5;
+    padding: 13px;
+
+}
+.fa-solid{
+    color: #E9EFF5;
+}
+.innerelement{
+    display: grid;
+    justify-content: center;
+    color: white;
+    justify-items: center;
+    margin: 20px;
+}
+.box4{
+    font-size: 58px;
+    font-weight: 500;
+}
+.H{
+    color: white;
+
+}
+.box5{
+    font-size: 26px;
+    font-weight: 600;
+    color:white;
+}
+.box6{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 3px;
+}
+.downelement{
+    padding-top: 39em;
+    display: grid;
+    grid-template-columns:100px 100px;
+    justify-content: center;
+    column-gap: 200px;
+   
+    
+    padding-right: 150px;
+    
+    
+}
+
+
+
+.box7{
+    background-color:#3E6AE1;
+    height: 40px;
+    width: 254px;
+    font-size: 15px;
+    color: white;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.box8{
+    background-color:#FFFFFF ;
+    height: 40px;
+    width: 254px;
+    font-size: 15px;
+    color:#404348;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec-page{
+    background-image: url('photos/tesla-2.png');
+    background-position: fixed;
+    background-repeat: no-repeat;
+    height: 57em;
+    width: 100%;
+    background-size: cover;
+
+
+}
+
+.box11{
+
+}
+.box12{
+    
+}
+.box13{
+
+}
