@@ -79,7 +79,7 @@
     justify-content: center;
     color: white;
     justify-items: center;
-    margin: 20px;
+    /* margin: 20px; */
 }
 .box4{
     font-size: 58px;
@@ -149,12 +149,197 @@
 
 }
 
-.box11{
+.box11{  
+    font-size: 58px;
+    font-weight: 700;
 
 }
 .box12{
+    font-size: 26px;
+    font-weight: 600;
+    color:white;
     
 }
 .box13{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 3px;
+}
+.Sec-1st{
+    display: grid;
+    justify-content: center;
+    color: white;
+    justify-items: center;
+    padding-top: 8em;
+    /* margin: 20px; */
+}.Sec-2st{
+    padding-top: 39em;
+    display: grid;
+    grid-template-columns:100px 100px;
+    justify-content: center;
+    column-gap: 200px;
+    position: relative;
+    bottom: 2em;
+    
+    padding-right: 150px;
+
+}.box14{
+    background-color:#3E6AE1;
+    height: 40px;
+    width: 254px;
+    font-size: 15px;
+    color: white;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box15{
+    background-color:#FFFFFF ;
+    height: 40px;
+    width: 254px;
+    font-size: 15px;
+    color:#404348;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.thirdpage{
+    background-image: url('photos/Tesla-3.png');
+    background-size: cover;
+    height: 57em;
+    width: 100%;
+}
+.Third-innerelement{
+    display: grid;
+    justify-content: center;
+    color: white;
+    justify-items: center;
+    padding-top: 8em;
+}.box21{
+    font-size: 58px;
+    font-weight: 700;
+}
+.box22{
+    font-size: 26px;
+    font-weight: 600;
+    color:white;
+}
+.box23{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 3px;
+    text-align: center;
+
+}.Third_downelement{
+    padding-top: 39em;
+    display: grid;
+    grid-template-columns:100px 100px;
+    justify-content: center;
+    column-gap: 200px;
+    position: relative;
+    bottom: 2em;
+    
+    padding-right: 150px;
+
+
+}
+.box24{
+    background-color:#3E6AE1;
+    height: 40px;
+    width: 254px;
+    font-size: 15px;
+    color: white;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}.box25{
+    background-color:#FFFFFF ;
+    height: 40px;
+    width: 254px;
+    font-size: 15px;
+    color:#404348;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.fourthpage{
+    background-image: url('photos/Tesla-5.png');
+    background-size: cover;
+    height: 57em;
+    width: 100%;
+
+}
+.Forth-innerelement{
+    display: grid;
+    justify-content: center;
+    color: white;
+    justify-items: center;
+    padding-top: 8em;
+
+
+}
+.box31{
+    font-size: 58px;
+    
+    font-weight: 700;
+
+
+}.box32{
+    font-size: 26px;
+    font-weight: 600;
+    color:white;
+
+}
+.box33{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 3px;
+    text-align: center;
+
+}
+.fourth_downelement{
+    padding-top: 39em;
+    display: grid;
+    grid-template-columns:100px 100px;
+    justify-content: center;
+    column-gap: 200px;
+    position: relative;
+    bottom: 2em;
+    
+    padding-right: 150px;
+
+
+}
+.box34{
+     background-color:#3E6AE1;
+    height: 40px;
+    width: 254px;
+    font-size: 15px;
+    color: white;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}.box35{
+    background-color:#FFFFFF ;
+    height: 40px;
+    width: 254px;
+    font-size: 15px;
+    color:#404348;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
 
 }
