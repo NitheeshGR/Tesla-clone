@@ -32,7 +32,7 @@
 .box2 ul li{
     display: inline-block;
     list-style: none;
-    /* gap: 20px; */
+    cursor: pointer;
 }
 .box2 ul li a{
     text-decoration: none;
@@ -340,6 +340,36 @@
     justify-content: center;
     align-items: center;
     
-
-
+}
+.footer{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    height: 462px;
+    align-items: center;
+}
+.footer-content{
+    color:#A9AAAA;
+    text-align: center;
+    font-size: 14px;
+}
+.terms{
+    color: white;
+}
+.final-footer{
+    display: flex;
+    height:70px ;
+    background-color: black;
+    justify-content: center;
+    
+}
+.final ul li{
+    display: inline;
+    list-style: none;
+    
+}.final ul li a{
+    text-decoration:none;
+    color: #CDCECF;
+    padding: 2px;
+    font-size: 12px;
 }
